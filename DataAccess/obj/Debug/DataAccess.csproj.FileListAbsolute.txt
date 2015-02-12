@@ -1,0 +1,9 @@
+D:\Development\Projects\SPORM\SPORM\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\Development\Projects\SPORM\SPORM\DataAccess\bin\Debug\DataAccess.dll
+D:\Development\Projects\SPORM\SPORM\DataAccess\bin\Debug\DataAccess.pdb
+D:\Development\Projects\SPORM\SPORM\DataAccess\bin\Debug\DomainObjects.dll
+D:\Development\Projects\SPORM\SPORM\DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Development\Projects\SPORM\SPORM\DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Development\Projects\SPORM\SPORM\DataAccess\bin\Debug\DomainObjects.pdb
+D:\Development\Projects\SPORM\SPORM\DataAccess\obj\Debug\DataAccess.dll
+D:\Development\Projects\SPORM\SPORM\DataAccess\obj\Debug\DataAccess.pdb

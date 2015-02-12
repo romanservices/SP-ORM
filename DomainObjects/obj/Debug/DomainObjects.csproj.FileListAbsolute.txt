@@ -1,0 +1,5 @@
+D:\Development\Projects\SPORM\SPORM\DomainObjects\bin\Debug\DomainObjects.dll
+D:\Development\Projects\SPORM\SPORM\DomainObjects\bin\Debug\DomainObjects.pdb
+D:\Development\Projects\SPORM\SPORM\DomainObjects\obj\Debug\DomainObjects.csprojResolveAssemblyReference.cache
+D:\Development\Projects\SPORM\SPORM\DomainObjects\obj\Debug\DomainObjects.dll
+D:\Development\Projects\SPORM\SPORM\DomainObjects\obj\Debug\DomainObjects.pdb
